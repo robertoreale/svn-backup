@@ -70,6 +70,7 @@ A sample configuration file (in YAML format) might look like this:
  :repository_state: /var/backup/repositories.yaml
  :create_directories: true
  :retention_size: 8
+ :repo_pattern: .
  :gzip: true
  :gzip_path: /bin/gzip
  :quiet: false

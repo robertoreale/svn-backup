@@ -6,6 +6,7 @@
 :repository_state: repositories.yaml
 :create_directories: true
 :retention_size: 8
+:repo_pattern: .
 :gzip: true
 :gzip_path: /bin/gzip
 :quiet: false
